@@ -4,25 +4,26 @@
   "description": "Teste os seus conhecimentos sobre Dragon Ball",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/U1eYjTgjUrlN6/source.gif",
+      "title": "Qual o nome do dragão que realiza desejos?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Shang",
+        "Dragonite",
+        "Shenlong",
+        "Dracarys"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/n7vNBmkwxpcY0/giphy.gif",
+      "title": "Quem é irmão de Gohan??",
+      "description": "Fácil demais...",
+      "answer": 2,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Trunks",
+         "Goku",
+         "Gothen"
       ]
     }
   ],
@@ -32,8 +33,8 @@
   "theme": {
     "colors": {
       "primary": "#3f51b5",
-      "secondary": "#424242",
-      "mainBg": "#fdd835",
+      "secondary": "#ff7043",
+      "mainBg": "#424242",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"

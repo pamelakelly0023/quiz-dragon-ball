@@ -24,11 +24,46 @@
          "Goku",
          "Gothen"
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/YyWDL9X2uGrBe/giphy.gif",
+      "title": "Quem matou o Nappa??",
+      "description": "eaí...",
+      "answer": 0,
+      "alternatives": [
+         "Vegeta",
+         "Trunks",
+         "Goku"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/VJeQrlJLcDsxnknlTP/giphy.gif",
+      "title": "Quem despertou Majin Boo??",
+      "description": "tão querido...",
+      "answer": 1,
+      "alternatives": [
+         "Supreme Kai",
+         "Bibidi",
+         "Dabura"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/125cxELHOpsLra/giphy.gif",
+      "title": "Qual o nome da fusão entre Goku e Vegeta??",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Gogeta",
+         "Goveto",
+         "Vegoku"
+      ]
     }
   ],
   "external": [
-    ""
+    "https://alura-quiz-avengers.fernanda-kipper.vercel.app/",
+    "https://alura-pokemon-quiz.daniloamsilva.vercel.app/"
   ],
+
   "theme": {
     "colors": {
       "primary": "#3f51b5",
